@@ -3,7 +3,7 @@ import sys
 """
 Input: text form the system
 Output: ... ...
-
+Author:Wu,Di
 count = 0
 for line in sys.stdin:
         count +=1
