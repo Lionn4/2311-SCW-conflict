@@ -1,6 +1,8 @@
 
 import sys
 """
+Input: text form the system
+Output: ... ...
 
 count = 0
 for line in sys.stdin:
